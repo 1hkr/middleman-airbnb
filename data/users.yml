@@ -1,4 +1,6 @@
 - name: 'Sébastien Saunier'
   github_nickname: 'ssaunier'
+  image: 'https://picsum.photos/200/300/?random'
 - name: 'Boris Paillard'
   github_nickname: 'Papillard'
+  image: 'https://picsum.photos/200/300/?random'
